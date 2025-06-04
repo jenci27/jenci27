@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/Trusha-7Span/Trusha-7Span/main/assets/aiml-banner.gif" alt="AI ML Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/Jenci-Oceanmtech/Jenci-Oceanmtech/main/assets/aiml-banner.gif" alt="AI ML Banner" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=AI+%7C+ML+Enthusiast;Aspiring+Data+Scientist;Passionate+about+Python+%7C+Django+%7C+Flask;Always+learning+new+things+%F0%9F%93%9A" alt="Typing SVG" />
